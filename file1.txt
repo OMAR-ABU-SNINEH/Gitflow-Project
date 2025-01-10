@@ -1,1 +1,1 @@
-Hello from Feature1
+Bug fixed in Feature1
